@@ -1,0 +1,131 @@
+.kue{
+
+    height: 90px;
+    font-size: 30px;
+    font-family: cursive;
+    color: green;
+    float: left;
+    padding: 20px  ;
+    
+
+}
+
+.header{
+    background-color: salmon;
+    height: 90px;
+}
+
+.header-list li{
+ color: black;
+ font-size: 30px;
+ font-family: cursive;
+ list-style: none;
+ float: right;
+ padding: 20px;
+}
+
+span{
+    color: white;
+}
+
+
+
+.main{
+    background-color: tomato;
+    height: 1700px;
+    padding: 20px;
+    
+    
+    
+    
+    
+}
+
+.footer{
+    background-color:salmon;
+    color: #fff;
+    height: 120px;
+    padding: 10px;
+}
+
+.logo{
+
+    font-size: 30px;
+    font-family: cursive;
+    color: green;
+    float: left;
+    padding: 20px;
+}
+
+.aw{
+    float: right;
+}
+
+.aw li{
+    color: black;
+    font-size: 15px;
+    font-family: cursive;
+    list-style: none;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    
+    
+    
+}
+
+.copy-container{
+    text-align: center; 
+    border-bottom: 4px solid black;
+    
+
+
+}
+
+.copy-container h1{
+    font-size: 60px;
+}
+
+.content-item{
+    float: left;
+    margin-right: 70px;
+}
+
+.content{
+    height: 500px;
+    margin-top: 100px;
+    
+    
+}
+
+.content-item p {
+    font-size: 24px;
+    margin-top: 30px;
+}
+
+.section-title{
+    font-family: monospace;
+    border-bottom: 2px solid black;
+    text-align: left;
+    font-size: 25px;
+}
+
+.contact-form{
+    padding-top: 50px;  
+}
+
+input, textarea{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid ;
+    border-color: rgb(167, 97, 118);
+}
+
+.contact-submit{
+    background-color:rgb(243, 146, 135);
+    color: rgb(131, 67, 60);
+}
+
+
